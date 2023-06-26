@@ -15,6 +15,7 @@ I am 27 years old, I am a beginner front-end developer, I have experience in lay
 * JavaScript (basic)
 * Git
 * Gulp
+* Pug
 
 ## Code Example
 ```
